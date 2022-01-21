@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Server Ready . . .",
 
 
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
 
 
 // mode pengaturan iklan
@@ -33,7 +33,7 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "201365479",
+"STARAPPID" : "201365472",
 
 "ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
 "ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
@@ -55,7 +55,7 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
+"UNITY_GAME_ID" : "4045256",
 "UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
