@@ -13,11 +13,11 @@
 
 // mode pengaturan iklan
 // Mode ADMOB       Admob backup Unity Backup Startapp
-//Mode FAN         FAN backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
 // Mode APPODEAL    Appodeal backup Unity Backup Startapp
 // Mode UNITY       Unity backup Startapp
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
- // native hanya bisa admob fan appodeal
+// native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
 "PENGATURAN_IKLAN_inter" : "ADMOB",
 "PENGATURAN_IKLAN_native" : "ADMOB",
