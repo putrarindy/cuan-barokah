@@ -33,7 +33,7 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "201365479",
+"STARAPPID" : "201365475",
 
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
@@ -55,7 +55,7 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
+"UNITY_GAME_ID" : "4045255",
 "UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
