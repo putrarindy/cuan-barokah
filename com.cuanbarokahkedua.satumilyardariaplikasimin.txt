@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Server Ready . . .",
 
 
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
 
 
 // mode pengaturan iklan
@@ -35,9 +35,9 @@
 
 "STARAPPID" : "201495249",
 
-"ADMOB_BANNER" : "ca-app-pub-6055654202257393/4387953520",
-"ADMOB_INTER" : "ca-app-pub-6055654202257393/9448708516",
-"ADMOB_NATIV" : "ca-app-pub-6055654202257393/5860817295",
+"ADMOB_BANNER" : "ca-app-pub-6055654202257393/4387953525",
+"ADMOB_INTER" : "ca-app-pub-6055654202257393/9448708518",
+"ADMOB_NATIV" : "ca-app-pub-6055654202257393/5860817294",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
